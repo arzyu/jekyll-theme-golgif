@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: $root-font-family;
+  font-size: $root-font-size;
+  line-height: $root-line-height;
+  color: $body-color;
+  background-color: $body-bg-color;
+}
+
+a {
+  color: $link-color;
+}
